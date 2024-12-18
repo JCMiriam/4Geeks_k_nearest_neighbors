@@ -1,3 +1,5 @@
 __pycache__
 .env
 .learn
+raw/
+src/movies_database.db
